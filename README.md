@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Laya : la promesse « 100× plus rapide », vérifiée" width="100%"></p>
+
 # Laya, du « 100× plus rapide » viral à ce qui rapporte vraiment
 
 > Retour d'expérience mesuré sur [Laya](https://github.com/NandhaKishorM/laya), un petit modèle de décision open-source : comment on a vérifié la promesse, comment on l'a installé, entraîné et rendu rentable, et surtout ce que ce test nous a fait construire autour.
